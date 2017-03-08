@@ -1,0 +1,18 @@
+{
+    "version": "1.0.0",
+    "summary": "Rate-limited queues for arbitrary data types",
+    "repository": "https://github.com/bitrage-io/elm-ratequeue.git",
+    "license": "BSD3",
+    "source-directories": [
+        "src"
+    ],
+    "exposed-modules": [
+        "RateQueue",
+        "RateQueueDict"
+    ],
+    "dependencies": {
+        "elm-lang/core": "5.1.1 <= v < 6.0.0",
+        "elm-lang/html": "2.0.0 <= v < 3.0.0"
+    },
+    "elm-version": "0.18.0 <= v < 0.19.0"
+}

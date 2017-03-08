@@ -1,0 +1,17 @@
+{
+  "name": "elm-ratequeue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "elm-test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "elm": "^0.18.0"
+  },
+  "devDependencies": {
+    "elm-test": "^0.18.2"
+  }
+}
